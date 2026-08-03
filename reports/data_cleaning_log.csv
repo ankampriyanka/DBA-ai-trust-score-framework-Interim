@@ -1,4 +1,4 @@
 Issue,Count,Treatment
-Missing Values,19200,Median/Unknown Imputation
+Missing Values,11200,Median/Unknown Imputation
 Duplicate Records,0,Removed
 Columns Removed,0,None
