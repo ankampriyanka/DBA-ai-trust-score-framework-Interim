@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+#environmental variables
+.env
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated outputs
+outputs/models/
+outputs/predictions/
+outputs/metrics/
+
+# Ignore full datasets
+data/raw/full/
+
+# Keep sampled datasets
+!data/raw/samples/
+
+# Operating system
+.DS_Store
+Thumbs.db
