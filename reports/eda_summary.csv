@@ -1,6 +1,5 @@
 Metric,Value
-Total Images,2400
-Datasets,3
-FairFace Images,1000
-Driver Drowsiness Images,1000
-CelebA Images,400
+Total Images,1400
+Behaviour Classes,7
+Missing Values,0
+Duplicate Records,0

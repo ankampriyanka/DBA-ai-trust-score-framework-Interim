@@ -1,0 +1,8 @@
+class,original_images,sampled_images,sampling_percentage
+DangerousDriving,2478,200,8.07
+Distracted,1672,200,11.96
+Drinking,2099,200,9.53
+Openeye,2000,200,10.0
+SafeDriving,2203,200,9.08
+Yawn,2731,200,7.32
+closed,1233,200,16.22

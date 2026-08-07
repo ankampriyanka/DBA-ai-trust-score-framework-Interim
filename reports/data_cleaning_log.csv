@@ -1,4 +1,4 @@
 Issue,Count,Treatment
-Missing Values,11200,Median/Unknown Imputation
-Duplicate Records,0,Removed
-Columns Removed,0,None
+Missing Values,0,Removed missing file names
+Duplicate Records,0,Removed duplicates
+Missing Image Files,0,Validated paths
