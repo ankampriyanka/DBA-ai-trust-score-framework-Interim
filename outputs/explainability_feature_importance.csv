@@ -1,0 +1,15 @@
+Feature,Importance
+brightness,4776
+contrast,4566
+entropy,4272
+blur_score,4135
+edge_density,3978
+size_mb,3514
+size_per_pixel,3471
+dynamic_range,2915
+aspect_ratio,884
+edge_strength,835
+image_area,794
+width,760
+height,414
+is_square,61
